@@ -1,0 +1,12 @@
+package locator;
+
+public class Check {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		System.setProperty("user.dir", "your_directory_path");
+	}
+
+}
